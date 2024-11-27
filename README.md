@@ -1,6 +1,6 @@
 Digital Document Locker
-A secure web application for uploading, storing, and retrieving sensitive documents. Users can upload files with a password and retrieve them using a unique key and password combination, ensuring data security and restricted access.
 
+A secure web application for uploading, storing, and retrieving sensitive documents. Users can upload files with a password and retrieve them using a unique key and password combination, ensuring data security and restricted access.
 Features
 Secure Document Upload: Upload files with a password for secure storage.
 Restricted Access: Retrieve files only with a unique key and password.
